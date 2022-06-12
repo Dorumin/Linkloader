@@ -1,8 +1,12 @@
 .vscode
 node_modules
 package-lock.json
+<<<<<<< HEAD
 
 */
 !src
 !.js
 *.txt
+=======
+dist
+>>>>>>> 01bf4d69430bdde12d1ef99eb56fd0c3fab16d51
